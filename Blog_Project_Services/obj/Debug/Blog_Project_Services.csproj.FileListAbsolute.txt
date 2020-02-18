@@ -1,0 +1,15 @@
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Services\bin\Debug\Blog_Project_Services.dll
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Services\bin\Debug\Blog_Project_Services.pdb
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Services\bin\Debug\Blog_Project_DAL.dll
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Services\bin\Debug\Blog_Project_Entity.dll
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Services\bin\Debug\EntityFramework.dll
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Services\bin\Debug\Blog_Project_DAL.pdb
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Services\bin\Debug\Blog_Project_DAL.dll.config
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Services\bin\Debug\Blog_Project_Entity.pdb
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Services\bin\Debug\EntityFramework.xml
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Services\obj\Debug\Blog_Project_Services.csprojAssemblyReference.cache
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Services\obj\Debug\Blog_Project_Services.csproj.CopyComplete
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Services\obj\Debug\Blog_Project_Services.dll
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Services\obj\Debug\Blog_Project_Services.pdb

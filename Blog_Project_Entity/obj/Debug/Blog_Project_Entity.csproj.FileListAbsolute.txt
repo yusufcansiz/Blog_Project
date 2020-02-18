@@ -1,0 +1,5 @@
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Entity\bin\Debug\Blog_Project_Entity.dll
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Entity\bin\Debug\Blog_Project_Entity.pdb
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Entity\obj\Debug\Blog_Project_Entity.csprojAssemblyReference.cache
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Entity\obj\Debug\Blog_Project_Entity.dll
+C:\Users\cansi\source\repos\Blog_Project\Blog_Project\Blog_Project_Entity\obj\Debug\Blog_Project_Entity.pdb
